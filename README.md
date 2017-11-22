@@ -46,7 +46,12 @@ This repository contains labs on:
 ## Authors ##
 
 ### Dennis Hering ###
-- Senior Student Partner @ Microsoft Germany
+My Bio:
+I‘m working for Microsoft Germany GmbH as a CSE Audience Marketing Manager and is regional lead for Team Nord at the german studentpartner program. 
+I’m native to student and adult education and provides a mixture of good knowledge, combined with best practice in the fields of IoT and open source technologies (e.g. Angular, Symphony/Laravel). 
+As a Microsoft Certified Trainer, I also regularly provides training in the developer area and thus tries to promote the "offspring".
+
+- CSE Audience Marketing Manager / Regional Lead of [MSP](http://www.studentpartners.de/) Team North @ Microsoft Germany
 - Twitter: [@mrcrunsh](https://twitter.com/mrcrunsh)
 - Facebook: [Dennis Hering](https://www.facebook.com/den.hering)
 - LinkedIn: [Dennis Hering](https://www.linkedin.com/in/dennis-hering/)
