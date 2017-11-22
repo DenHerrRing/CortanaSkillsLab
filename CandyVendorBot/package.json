@@ -1,0 +1,27 @@
+{
+  "name": "candyvendorbot",
+  "version": "1.0.0",
+  "description": "A Cortana Skill to activate a Candy Vendor by Voice Actions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MrCrunsh/CortanaSkillsLab/tree/master/CandyVendorBot"
+  },
+  "keywords": [
+    "Cortana",
+    "Bot",
+    "Voice",
+    "Speak"
+  ],
+  "author": "Dennis Hering",
+  "license": "MIT",
+  "dependencies": {
+    "rpio": "^0.9.19",
+    "botbuilder": "^3.8.4",
+    "dotenv": "^4.0.0",
+    "restify": "^4.3.0"
+  }
+}
