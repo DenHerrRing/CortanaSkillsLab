@@ -24,6 +24,7 @@ This repository contains labs on:
 ### Raspberry Pi
 + [Add NodeGPIO](https://github.com/MrCrunsh/CortanaSkillsLab/wiki/Add-NoteGPIO)
 + [Ngrok](https://github.com/MrCrunsh/CortanaSkillsLab/wiki/Ngrok)
++ [The CandyVendorBot](https://github.com/MrCrunsh/CortanaSkillsLab/wiki/CandyBot)
 
 ## Prerequisites and Addional Material ##
 - [Visual Studio Code](https://code.visualstudio.com/)
