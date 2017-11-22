@@ -7,6 +7,15 @@ After finish this environment you will be able to control the GPIOs of your Rasp
 [1]: https://dev.botframework.com/
 [2]: https://developer.microsoft.com/de-de/cortana/
 
+## Remarks ##
+All technologys are preview versions. It may be that some services are not available in every country.
+
+## Known Issus ##
+### Bot Framework ###
++ No known issus.
+### Cortana Skill Set ###
++ To run Cortana Skills on a Windows computer, the device must be set to the United States region. For Germany, you can run Cortana on your Android smartphone by downloading the APK here: [apkmirror.com](https://www.apkmirror.com/apk/microsoft-corporation/cortana/).
+
 ## Start ##
 To start this learning environment, go to [Wiki](https://github.com/MrCrunsh/CortanaSkillsLab/wiki) page.
 
