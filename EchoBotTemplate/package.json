@@ -1,0 +1,23 @@
+{
+  "name": "echo-bot-nodejs",
+  "version": "1.0.0",
+  "description": "This are startfiles",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "github"
+  },
+  "keywords": [
+    "Bot",
+    "Framework",
+    "Cortana",
+    "Node.JS",
+    "Raspberry"
+  ],
+  "author": "Dennis Hering",
+  "license": "MIT",
+  "dependencies": {
+    "botbuilder": "^3.12.0",
+    "restify": "^6.3.4"
+  }
+}
