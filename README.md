@@ -33,6 +33,7 @@ This repository contains labs on:
 ### Raspberry Pi
 + [Add Add rpio](https://github.com/MrCrunsh/CortanaSkillsLab/wiki/Add-rpio)
 + [Ngrok](https://github.com/MrCrunsh/CortanaSkillsLab/wiki/Ngrok)
++ [Connect Gadgets to your Pi](https://github.com/MrCrunsh/CortanaSkillsLab/wiki/Connect-Gadgets-to-your-Pi)
 + [The CandyVendorBot](https://github.com/MrCrunsh/CortanaSkillsLab/wiki/CandyBot)
 
 ## Prerequisites and Addional Material ##
