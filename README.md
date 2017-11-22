@@ -22,7 +22,7 @@ This repository contains labs on:
 1. [Build a Cortana skill](https://github.com/MrCrunsh/CortanaSkillsLab/wiki/Build-a-Cortana-skill)
 
 ### Raspberry Pi
-+ [Add NodeGPIO](https://github.com/MrCrunsh/CortanaSkillsLab/wiki/Add-NoteGPIO)
++ [Add Add rpio](https://github.com/MrCrunsh/CortanaSkillsLab/wiki/Add-rpio)
 + [Ngrok](https://github.com/MrCrunsh/CortanaSkillsLab/wiki/Ngrok)
 + [The CandyVendorBot](https://github.com/MrCrunsh/CortanaSkillsLab/wiki/CandyBot)
 
