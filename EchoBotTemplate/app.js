@@ -17,15 +17,6 @@ var connector = new builder.ChatConnector({
 server.post('/api/messages', connector.listen());
 
 // Receive messages from the user and respond by echoing each message back (prefixed with 'You said:')
-var bot = new builder.UniversalBot(connector, [
-    function (session) {
-        session.say("Welcome to the Cortana Skill Bot.");
-        session.say('Hi there', 'Hi, what’s your name?', {
-            inputHint: builder.InputHint.expectingInput
-        });
-    },
-    function (session, results) {
-        session.say("Nice to meet you {$results.response}. My Name is Cortana!");
-        session.endDialog();
-    }
-]);
+var bot = new builder.UniversalBot(connector, function (session) {
+    session.send("You said: %s", session.message.text);
+});
