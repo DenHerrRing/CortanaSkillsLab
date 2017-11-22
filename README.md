@@ -31,10 +31,10 @@ This repository contains labs on:
 1. [Build a Cortana skill](https://github.com/MrCrunsh/CortanaSkillsLab/wiki/Build-a-Cortana-skill)
 
 ### Raspberry Pi
-+ [Add Add rpio](https://github.com/MrCrunsh/CortanaSkillsLab/wiki/Add-rpio)
-+ [Ngrok](https://github.com/MrCrunsh/CortanaSkillsLab/wiki/Ngrok)
-+ [Connect Gadgets to your Pi](https://github.com/MrCrunsh/CortanaSkillsLab/wiki/Connect-Gadgets-to-your-Pi)
-+ [The CandyVendorBot](https://github.com/MrCrunsh/CortanaSkillsLab/wiki/CandyBot)
+1. [Add Add rpio](https://github.com/MrCrunsh/CortanaSkillsLab/wiki/Add-rpio)
+1. [Ngrok](https://github.com/MrCrunsh/CortanaSkillsLab/wiki/Ngrok)
+1. [Connect Gadgets to your Pi](https://github.com/MrCrunsh/CortanaSkillsLab/wiki/Connect-Gadgets-to-your-Pi)
+1. [The CandyVendorBot](https://github.com/MrCrunsh/CortanaSkillsLab/wiki/CandyBot)
 
 ## Prerequisites and Addional Material ##
 - [Visual Studio Code](https://code.visualstudio.com/)
