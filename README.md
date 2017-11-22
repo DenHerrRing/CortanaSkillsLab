@@ -1,5 +1,6 @@
 # Cortana Skills Lab
 This repository (https://github.com/MrCrunsh/CortanaSkillsLab) is build as a learning environment to learn the basics of developing Cortana Skills with the [Microsoft Bot Framework][1] and [Cortana Skill Set][2].
+
 I assume that the running plattform is a Raspberry Pi. You can also deploy these environment on a Azure BotService.
 After finish this environment you will be able to control the GPIOs of your Raspberry Pi by Cortana.
 
