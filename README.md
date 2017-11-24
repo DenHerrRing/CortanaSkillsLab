@@ -1,8 +1,8 @@
 # Cortana Skills Lab
-This repository (https://github.com/MrCrunsh/CortanaSkillsLab) is build as a learning environment to learn the basics of developing Cortana Skills with the [Microsoft Bot Framework][1] and [Cortana Skill Set][2].
+This repository (https://github.com/MrCrunsh/CortanaSkillsLab) is built as a learning environment to understand the basics of developing Cortana Skills with the [Microsoft Bot Framework][1] and [Cortana Skill Set][2].
 
-I assume that the running plattform is a Raspberry Pi. You can also deploy these environment on a Azure BotService.
-After finish this environment you will be able to control the GPIOs of your Raspberry Pi by Cortana.
+I assume that the running platform is a Raspberry Pi. You can also deploy these environment on a Azure BotService.
+After finishing this environment you will be able to control the GPIOs of your Raspberry Pi with Cortana.
 
 [1]: https://dev.botframework.com/
 [2]: https://developer.microsoft.com/de-de/cortana/
@@ -10,9 +10,11 @@ After finish this environment you will be able to control the GPIOs of your Rasp
 ## Remarks ##
 All technologys are preview versions. It may be that some services are not available in every country.
 
-## Known Issus ##
-### Bot Framework ###
-+ No known issus.
+## Known Issues ##
+
+### Bot Builder ###
+Link to [Bot Builder Github page](https://github.com/Microsoft/BotBuilder)
+
 ### Cortana Skill Set ###
 + To run Cortana Skills on a Windows computer, the device must be set to the United States region. For Germany, you can run Cortana on your Android smartphone by downloading the APK here: [apkmirror.com](https://www.apkmirror.com/apk/microsoft-corporation/cortana/).
 
@@ -22,15 +24,15 @@ To start this learning environment, go to [Wiki](https://github.com/MrCrunsh/Cor
 ## Contents ##
 This repository contains labs on:
 
-### Develope Bot Framework ###
+### Development with the Bot Framework ###
 1. [Create a simple Node.JS Bot](https://github.com/MrCrunsh/CortanaSkillsLab/wiki/First-steps-of-creating-a-Bot-(Node.JS))
 1. [Publish your Bot](https://github.com/MrCrunsh/CortanaSkillsLab/wiki/Publish-your-Bot)
 
-### Create Cortana Skills Set ###
+### Create Cortana Skills ###
 1. [Add Cortana Skill](https://github.com/MrCrunsh/CortanaSkillsLab/wiki/Add-Cortana-Skill)
 1. [Build a Cortana skill](https://github.com/MrCrunsh/CortanaSkillsLab/wiki/Build-a-Cortana-skill)
 
-### Raspberry Pi
+### Raspberry Pi ###
 1. [Add Add rpio](https://github.com/MrCrunsh/CortanaSkillsLab/wiki/Add-rpio)
 1. [Ngrok](https://github.com/MrCrunsh/CortanaSkillsLab/wiki/Ngrok)
 1. [Connect Gadgets to your Pi](https://github.com/MrCrunsh/CortanaSkillsLab/wiki/Connect-Gadgets-to-your-Pi)
